@@ -1,4 +1,4 @@
-# O TEOREMA DO MACACO INFINITO APLICADO À GERAÇÃO COMPUTACIONAL DE STRINGS: UMA ANÁLISE PROBABILÍSTICA DA CONVERGÊNCIA PARA SEQUÊNCIAS ESPECÍFICAS
+# Teorema do Macaco Infinito em Python: Uma Abordagem Experimental por Simulação de Monte Carlo
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
